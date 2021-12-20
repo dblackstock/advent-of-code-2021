@@ -1,0 +1,16 @@
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/advent-of-code-2021
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/advent-of-code-2021.deps.json
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/advent-of-code-2021.runtimeconfig.json
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/advent-of-code-2021.runtimeconfig.dev.json
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/advent-of-code-2021.dll
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/ref/advent-of-code-2021.dll
+/home/daveyb/code/advent-of-code-2021/bin/Debug/net5.0/advent-of-code-2021.pdb
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.csprojAssemblyReference.cache
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.GeneratedMSBuildEditorConfig.editorconfig
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.AssemblyInfoInputs.cache
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.AssemblyInfo.cs
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.csproj.CoreCompileInputs.cache
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.dll
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/ref/advent-of-code-2021.dll
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.pdb
+/home/daveyb/code/advent-of-code-2021/obj/Debug/net5.0/advent-of-code-2021.genruntimeconfig.cache
