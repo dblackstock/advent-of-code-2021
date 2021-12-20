@@ -8,7 +8,7 @@ namespace advent_of_code_2021
 		{
 			// manually update which function is being called
 			// in order to solve various challenges
-			DepthCheck.SonarSweep();
+			Dive.Navigation();
 		}
 	}
 }
