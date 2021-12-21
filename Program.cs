@@ -22,6 +22,9 @@ namespace advent_of_code_2021
 				case "3":
 					BinaryDiagnostic.Diagnostic();
 					break;
+				case "4":
+					GiantSquid.Bingo();
+					break;
 				default:
 					Console.WriteLine("Day not found. Please enter a value from 1 to 25. Perhaps your chosen value has not been added yet.");
 					break;
