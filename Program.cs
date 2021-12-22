@@ -25,6 +25,9 @@ namespace advent_of_code_2021
 				case "4":
 					GiantSquid.Bingo();
 					break;
+				case "5":
+					HydrothermalVenture.FindOverlaps();
+					break;
 				default:
 					Console.WriteLine("Day not found. Please enter a value from 1 to 25. Perhaps your chosen value has not been added yet.");
 					break;
